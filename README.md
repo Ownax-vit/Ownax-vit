@@ -12,11 +12,13 @@
 ![This is an image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![This is an image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ownax-vit&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ownax-vit&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ownax-vit&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ownax-vit&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ownax-vit&theme=2077)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ownax-vit&custom_title=Contribustion%20in%20the%20last%20month&bg_color=141321&color=dfd20e&line=00ffc8&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ownax-vit&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ownax-vit&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ownax-vit&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ownax-vit&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ownax-vit&theme=github)
+
 
 
