@@ -28,12 +28,12 @@
 ![This is an image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![This is an image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ownax-vit&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ownax-vit&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ownax-vit&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ownax-vit&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ownax-vit&theme=github)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ownax-vit&theme=github)
-
 
 
