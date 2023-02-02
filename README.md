@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7000B&repeat=false&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sassy+Frass+cursive&size=23&pause=1000&color=FF7F14&repeat=false&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E!)](https://git.io/typing-svg)
 
 <h2>Мой стэк</h2>
 <h3> Backend </h3>
