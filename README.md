@@ -54,8 +54,12 @@
 
 | Наименование | Краткое описание |
 | --- | --- |
+| [Cервис мониторинга логов ](https://github.com/Ownax-vit/loggeroProject.git)| Система отслеживания и отображения логов по Websockets (Backend)|
 | [Cистема геомаркетингового анализа](https://github.com/Ownax-vit/GeoSystemProjectPublic.git) | Научный проект для проведения геомаркетингового анализа на поиск оптимальных местоположений бизнеса |
 | [Cистема мониторинга объявлений ](https://github.com/Ownax-vit/parseAviPublic.git)| Проект мониторинга объявлений с возможностью аналитики и выгрузки данных|
+
+
+
 
 ***
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ownax-vit)](https://git.io/streak-stats)
