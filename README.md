@@ -65,8 +65,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ownax-vit)](https://git.io/streak-stats)
 
   
-[![Top Langs](https://github-readme-stats-tau-amber.vercel.app/api/top-langs/?username=ownax-vit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ownax-vit&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ownax-vit&theme=github)
 
