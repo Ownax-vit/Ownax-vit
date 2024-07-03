@@ -5,21 +5,12 @@
 
 ![This is an image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![This is an image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![This is an image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![This is an image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
 ![This is an image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![This is an image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![This is an image](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![This is an image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 <h3> Frontend </h3>
 
 ![This is an image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![This is an image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![This is an image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![This is an image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![This is an image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![This is an image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -35,10 +26,8 @@
 
 <h3> IDE </h3>
 
-![This is an image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![This is an image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![This is an image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![This is an image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 <!-- <h3> Другое </h3>
 
@@ -50,15 +39,6 @@
 ![This is an image](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white) -->
 
 ***
-<h2>Мои проекты</h2>
-
-| Наименование | Краткое описание |
-| --- | --- |
-| [Cервис мониторинга логов ](https://github.com/Ownax-vit/loggeroProject.git)| Система отслеживания и отображения логов по Websockets (Backend)|
-| [Cистема геомаркетингового анализа](https://github.com/Ownax-vit/GeoSystemProjectPublic.git) | Научный проект для проведения геомаркетингового анализа на поиск оптимальных местоположений бизнеса |
-| [Cистема мониторинга объявлений ](https://github.com/Ownax-vit/parseAviPublic.git)| Проект мониторинга объявлений с возможностью аналитики и выгрузки данных|
-
-
 
 
 ***
