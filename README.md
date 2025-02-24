@@ -49,8 +49,6 @@
 
 
 ***
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ownax-vit)](https://git.io/streak-stats)
-
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ownax-vit&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ownax-vit&theme=github)
