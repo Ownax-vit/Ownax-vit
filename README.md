@@ -44,9 +44,8 @@
 
 ***
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ownax-vit&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ownax-vit&theme=github)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ownax-vit&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ownax-vit&theme=github)
 
 
